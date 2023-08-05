@@ -30,15 +30,28 @@ A table with data only. No modeling.
 ## Report visualization
 The report contained 11 pages. Link for the report [this is the link](https://app.powerbi.com/groups/me/reports/1cf989c9-e580-4177-a341-cb3b2b93dd13/ReportSection?experience=power-bi)
 
+
 Below are some pages excerpts contents:
 
 * Analysis
 
         -Total sales by product
+        ![login](https://github.com/dansakoc/Image/blob/master/Sales%20by%20product%202023-08-05%20030638.png?raw=true)
+  
+  
         -Total sales by month
+          ![login](https://github.com/dansakoc/Image/blob/master/Total%20sales%20by%20month%202023-08-05%20031707.png?raw=true)
+  
+  
         -Sales versus Cost of good sold
-        -total profit
+          ![login](https://github.com/dansakoc/Image/blob/master/Sales%20vs%20COGS%202023-08-05%20033054.png?raw=true)
+  
+        -total profit by segment
+         ![login](https://github.com/dansakoc/Image/blob/master/Total%20Profit%20by%20segments%202023-08-05%20032104.png?raw=true)
+  
         -Profit margin versus Target profit margin
+          ![login](https://github.com/dansakoc/Image/blob/master/Profit%20margin%20versus%20target%20profit%20margin%202023-08-05%20032514.png?raw=true)
+  
 
 
   ------
