@@ -33,27 +33,70 @@ The report contained 11 pages. Link for the report [this is the link](https://ap
 
 Below are some pages contents excerpts:
 
-* Analysis
+* Analysis for 2014
+   - We have 6 products sold in 5 countries.
+   - The products are sold through 5 segments.
+   - Total orders  393
+   - Total sales $92,310,000
 
-  -Total sales by product
-        ![login](https://github.com/dansakoc/Image/blob/master/Sales%20by%20product%202023-08-05%20030638.png?raw=true)
-  
-  -Total sales by month
-          ![login](https://github.com/dansakoc/Image/blob/master/Total%20sales%20by%20month%202023-08-05%20031707.png?raw=true)
-  
-  
-  -Sales versus Cost of good sold
-          ![login](https://github.com/dansakoc/Image/blob/master/Sales%20vs%20COGS%202023-08-05%20033054.png?raw=true)
-  
-  -total profit by segment
-         ![login](https://github.com/dansakoc/Image/blob/master/Total%20Profit%20by%20segments%202023-08-05%20032104.png?raw=true)
-  
-  -Profit margin versus Target profit margin
-          ![login](https://github.com/dansakoc/Image/blob/master/Profit%20margin%20versus%20target%20profit%20margin%202023-08-05%20032514.png?raw=true)
 
-  -Total sales by country
-          ![login](https://github.com/dansakoc/Image/blob/master/Total%20sales%20by%20country%202023-08-05%20033844.png?raw=true)
-    
+  #### Total sales by product
+  
+  We see that Paseo was the most sold product in all segments in 2014. Paseo sales is almost 29% of the total sales.
+  
+  ![login](https://github.com/dansakoc/Image/blob/master/Sales%20by%20product%202023-08-05%20030638.png?raw=true)
+
+
+
+  #### Total sales by month
+
+  Sales increase in June and decrease later from July to September and reach their peak in October and start decreasing in November and 
+  to get to another peak in December.
+  For 2014 the highest income was generated in October $12,375,819.90.
+  We have noticed that the highest incomes are made in 3 months June, October and December, and sales are stable for the remainder of the 
+ year.
+
+  ![login](https://github.com/dansakoc/Image/blob/master/Total%20sales%20by%20month%202023-08-05%20031707.png?raw=true)
+  
+
+
+  #### Sales versus Cost of good sold
+
+   Income is greater than cost for each product category. More sales decrease the cost of goods sold.
+  
+  ![login](https://github.com/dansakoc/Image/blob/master/Sales%20vs%20COGS%202023-08-05%20033054.png?raw=true)
+
+
+
+  #### Total profit by segment
+
+  Profit for the Government segment is the highest in all sectors $8,501,527.89
+  
+  ![login](https://github.com/dansakoc/Image/blob/master/Total%20Profit%20by%20segments%202023-08-05%20032104.png?raw=true)
+
+
+
+  #### Profit margin versus Target profit margin
+
+  The company did not reach the target profit margin of 25% for 2014
+  
+   ![login](https://github.com/dansakoc/Image/blob/master/Profit%20margin%20versus%20target%20profit%20margin%202023-08-05%20032514.png?raw=true)
+
+
+
+  #### Total sales by country
+
+  We do not observe a huge variation of sales in each country. Sales are above 19 million for top 3 countries and between 16 million and 17 million for Germany and Mexico.
+   ![login](https://github.com/dansakoc/Image/blob/master/Total%20sales%20by%20country%202023-08-05%20033844.png?raw=true)
+
+
+
+  #### Unit solds by segments and Products
+
+  Accross each segment Paseo is the most sold brand
+  
+  ![login](https://github.com/dansakoc/Image/blob/master/Unit%20sold%20by%20segment%20and%20product%202023-08-05%20033651.png?raw=true)
+  
 
 
   ------
