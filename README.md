@@ -31,6 +31,8 @@ A table with data only. No modeling.
 ---------
 ## Report visualization
 The report contained 11 pages. Link for the report [this is the link](https://app.powerbi.com/groups/me/reports/1cf989c9-e580-4177-a341-cb3b2b93dd13/ ReportSection81d4fa8cf227facca67d?experience=power-bi)
+
+
 Below are some pages contents excerpts:
 
 * Analysis for 2014
