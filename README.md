@@ -1,4 +1,6 @@
 # Sales Analysis
+![login](https://github.com/dansakoc/Image/blob/master/image%20of%20finance.jpg?raw=true)
+
 ## Introduction
 This is a power BI financial analysis for a particular company. The project consists of analyzing the data to find meaningful insights for the company to make better decisions for their products and segments in the country where their products are offered.
 ---------
@@ -28,16 +30,16 @@ A table with data only. No modeling.
 
 ---------
 ## Report visualization
-The report contained 11 pages. Link for the report [this is the link](https://app.powerbi.com/groups/me/reports/1cf989c9-e580-4177-a341-cb3b2b93dd13/ReportSection?experience=power-bi)
-
-
+The report contained 11 pages. Link for the report [this is the link](https://app.powerbi.com/groups/me/reports/1cf989c9-e580-4177-a341-cb3b2b93dd13/ ReportSection81d4fa8cf227facca67d?experience=power-bi)
 Below are some pages contents excerpts:
 
 * Analysis for 2014
    - We have 6 products sold in 5 countries.
    - The products are sold through 5 segments.
-   - Total orders  393
-   - Total sales $92,310,000 in 2014
+   - Total Orders  393
+   - Total Sales   $92,310,000
+   - total Cost    $79,300,000
+   - Total Profit  $13,020,000
 
 
   #### Total sales by product
