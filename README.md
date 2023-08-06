@@ -37,7 +37,7 @@ Below are some pages contents excerpts:
    - We have 6 products sold in 5 countries.
    - The products are sold through 5 segments.
    - Total orders  393
-   - Total sales $92,310,000
+   - Total sales $92,310,000 in 2014
 
 
   #### Total sales by product
@@ -101,8 +101,8 @@ Below are some pages contents excerpts:
 
   ------
   ## Conclusion
-  The company did not reach the target sales and profit but was able to control the cost of sales, which are properly controlled. Paseo products have generated the most sales and are the most profitable product. 80% of the sales come from the government and small business segment.
-The company should increase the market size of the other 3 segments: Enterprise, Channel Partners, small Business.
+  The company did not reach the target sales and profit but was able to control the cost of sales, which are properly controlled. Paseo products have generated the most sales, and are the most profitable product. 80% of the sales come from the government and small business segment.
+Sales are going up as demonstrated by the forecasting chart.The company should increase the market size of the other 3 segments: _Enterprise_, _Channel Partners_ and _Midmarket_  by taking advantages of those increase in order to reach the target sales and profit.
 
 
   
