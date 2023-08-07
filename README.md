@@ -106,7 +106,7 @@ Below are some pages contents excerpts:
   ------
   ## Conclusion
   The company did not reach the target sales and profit but was able to control the cost of sales, which are properly controlled. Paseo products have generated the most sales, and are the most profitable product. 80% of the sales come from the government and small business segment.
-Sales are going up as demonstrated by the forecasting chart.The company should increase the market size of the other 3 segments: _Enterprise_, _Channel Partners_ and _Midmarket_  by taking advantages of those increase in order to reach the target sales and profit.
+Sales are going up as demonstrated by the forecasting chart.The company should increase the market size of the other 3 segments: _Enterprise_, _Channel Partners_ and _Midmarket_  by taking advantages of these raises in order to reach the target sales and profit.
 
 
   
